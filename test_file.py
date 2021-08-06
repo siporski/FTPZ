@@ -1,1 +1,1 @@
-print('Hello world!')
+print('Nikt nie spodziewa się hiszpańskiej inkwizycji')
